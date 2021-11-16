@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreslojan
 - 👀 I’m interested in AI, Finance, Breakdance
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning, Deep Learning
 - 💞️ I’m looking to collaborate on AI Projects
 - 📫 How to reach me andres.lojan@gmail.com
 
