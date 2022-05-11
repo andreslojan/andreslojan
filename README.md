@@ -7,7 +7,7 @@
 
 Hi there! :octocat:
 
-I am a professional with a passion for Finance and Technology. Because of my work experience and academic background, I have acquired cutting-edge skills which in turn have been applied to several hands-on projects. 
+I am a professional with a passion for Technology, Finance and Breakdance. Because of my work experience and academic background, I have acquired cutting-edge skills which in turn have been applied to several hands-on projects. 
 
 My expertise includes Data Analysis, Machine Learning, Deep Learning, and visualization techniques through different tools and programming languages. I am open to new opportunities and also to collaborate on new challenges
 
