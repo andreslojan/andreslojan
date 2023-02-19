@@ -14,7 +14,7 @@ My expertise includes Data Analysis, Machine Learning, Deep Learning, and visual
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=andreslojan.visitor-badge&left_text=MyPageVisitors)
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreslojan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreslojan&layout=compact)](https://github.com/andreslojan/github-readme-stats)
 
 
 <!---
