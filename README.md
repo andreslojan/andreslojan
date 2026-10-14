@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreslojan
-- 👀 I’m interested in Technology, Finance, Breakdance
+- 👀 I’m interested in Technology, Finance
 - 🌱 I’m currently learning Artificial Intelligence, Data Science, Software Development
 - 💞️ I’m looking to collaborate on AI Projects
 - 📫 How to reach me andres.lojan@gmail.com
